@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/global-tour-planner-248398-248431/tour_planner_frontend"
+}
